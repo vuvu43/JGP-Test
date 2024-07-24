@@ -1,0 +1,8 @@
+PT//
+Acredito que o primeiro passo seria visualizar os dados, então iria fazer um gráfico em que eu pudesse ver as duas
+séries ao mesmo tempo para ver se há alguma correlação clara ou não. Dependendo do que se deseja ser feito com esses dados,
+também seria possível fazer as matrizes de correlação de Pearson ou de Spearman para uma análise mais profunda.
+
+ENG//
+The first step would be to plot both series on a graph and simply look if there is a clear correlation or not. After that,
+depending on what is my objective, I could also show Pearson's or Spearman's correlatin matrix for a deeper analisis.

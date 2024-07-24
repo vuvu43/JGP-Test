@@ -1,0 +1,9 @@
+PT//
+Como tem uma API isso vira um processo bem simples, primeiramente faria um código simples que pediria as informações
+necessárias, como ano de início, ano final e quais séries são desejadas. No final colocaria os dados em 1
+arquivo CSV para ser acessado localmente.
+
+ENG//
+Since there is an API, this becomes a much simpler process, I would firstly ask for infomations needed for the requesting
+the data, like start year, end year and what series are of interest, after fetching the data, store it on a CSV file so 
+it can be accessed locally.
